@@ -1,0 +1,2 @@
+ckeditor is now implemented so little bit of text controls
+
